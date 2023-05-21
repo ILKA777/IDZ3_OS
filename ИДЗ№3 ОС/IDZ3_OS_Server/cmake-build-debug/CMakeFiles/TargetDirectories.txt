@@ -1,0 +1,3 @@
+/Users/ilka/CLionProjects/IDZ3_OS_Server/cmake-build-debug/CMakeFiles/IDZ3_OS_Server.dir
+/Users/ilka/CLionProjects/IDZ3_OS_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilka/CLionProjects/IDZ3_OS_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
